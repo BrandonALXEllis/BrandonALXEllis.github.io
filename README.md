@@ -1,1 +1,0 @@
-You'll see this annoying page if git refuses to build my website!
